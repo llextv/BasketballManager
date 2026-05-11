@@ -22,6 +22,6 @@ And a switch for link all cameras and raspberry in ethernet to the PC obs for st
 
 For the button one of my idea is make a grid x, y axis ?
 
-[image.png](https://cdn.hackclub.com/019e188a-8019-706e-8271-b708721e3d73/image.png)
+![image.png](https://cdn.hackclub.com/019e188a-8019-706e-8271-b708721e3d73/image.png)
 
 **Total time spent: 2 hours**
