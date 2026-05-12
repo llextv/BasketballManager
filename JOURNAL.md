@@ -25,3 +25,26 @@ For the button one of my idea is make a grid x, y axis ?
 ![image.png](https://cdn.hackclub.com/019e188a-8019-706e-8271-b708721e3d73/image.png)
 
 **Total time spent: 2 hours**
+
+# May 12
+This day, I've make reflection about lot of technical thinks:
+For connexion:
+3 sides:
+-> for each sides:
+  ESP-WROOM-32 --> Wifi --> Raspberry --> Switch --> OBS PC
+
+for 3 ethernet cameras (example):
+-> ETHERNET CAMS
+  CAMERAS --> ethernet port on table --> switch --> OBS PC
+
+At starting I thought connnect all think with cable
+
+The switch make a LAN with all cameras / the plate.
+
+At the base of project I think all cameras pass by the raspberry
+but with reflexion: 
+Cameras does not pass by raspberry for high quality !
+
+I've also start to make reflexion on the feature I would like.
+
+**Total time spent: 1 hours**
