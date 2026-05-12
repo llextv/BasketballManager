@@ -46,5 +46,5 @@ but with reflexion:
 Cameras does not pass by raspberry for high quality !
 
 I've also start to make reflexion on the feature I would like.
-
-**Total time spent: 1 hours**
+![img journal](https://user-cdn.hackclub-assets.com/019e1da1-a788-7cef-81ce-c3945b9f5259/2-6.png)
+**Total time spent: 2 hours**
