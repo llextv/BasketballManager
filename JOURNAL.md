@@ -48,3 +48,17 @@ Cameras does not pass by raspberry for high quality !
 I've also start to make reflexion on the feature I would like.
 ![img journal](https://user-cdn.hackclub-assets.com/019e1da1-a788-7cef-81ce-c3945b9f5259/2-6.png)
 **Total time spent: 2 hours**
+
+# May 13
+I've start to design my plate on Fusion 360, one on my first time with this software 😅,
+I've search many time for cut a block:
+![alt text](https://cdn.hackclub.com/019e2249-eb82-77e3-ad25-72129cd5a435/2-2.png)
+
+
+Here is the partial block:
+![images.png](https://cdn.hackclub.com/019e224a-0a14-7609-9f6e-e43724dbb5d6/2-1.png)
+
+Next day i will make the electronic scheme
+For the moment, I wait for the electronic sheme for make round
+
+**Total time spent: 2 hours**
