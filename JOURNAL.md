@@ -121,3 +121,40 @@ void loop() {
 ```
 
 **Total time spent: 3 hours**
+
+# May 15
+Today my works are to list electric component and make a scheme of electrical device and specs.
+This scheme: ![scheme](https://cdn.hackclub.com/019e2b69-08ad-7e8b-99f9-04b1df589936/2-6.png)
+
+I have calculate max voltage of all my components:
+ESP-WROOM-32 -> 5V 0.25A max
+SWITCH TP-Link LS1005G -> 5V 0.5A max
+RASPBERRY -> 5V 3A max
+
+Cams & PC OBS are not managed by my system
+
+For calculate:
+Moy using: 1.42A
+Max using: 4.25A (take 5A for security)
+
+For all -> 5V
+
+Power: 
+P = U * I
+with U = 5V and I= 5A
+P = 25W
+
+For the power system:
+
+https://www.amazon.fr/Tesfish-Alimentation-adaptateur-Transformateurs-lumineuse/dp/B083QN65BB
+
+https://fr.aliexpress.com/item/1005010339166210.html
+
+https://fr.aliexpress.com/item/1005005545792891.html
+
+Normally all connexion are secured from joult effect.
+
+About this subject:
+I will install fan for refresh interior of box (I need to prevent it from overheating and melting my case.)
+
+**Total time spent: 2 hours**
