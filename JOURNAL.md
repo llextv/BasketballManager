@@ -158,3 +158,24 @@ About this subject:
 I will install fan for refresh interior of box (I need to prevent it from overheating and melting my case.)
 
 **Total time spent: 2 hours**
+
+# May 16
+
+For today i've make reflection about button alignement, choiced button place ...
+This is scheme: 
+![design btn](https://cdn.hackclub.com/019e30d2-e360-7274-957a-6bd32f1393c8/2-7.png)
+
+I've remake this about 3 times for decide the best place for each button.
+
+After reflexion I think button with LED is better for On / Off not for all but for 80% min.
+
+This is a plan for 3 block of button for 1 ESP
+![design btn place](https://cdn.hackclub.com/019e30d2-eb4c-7981-a84e-55e5aaabe9b3/2-8.png)
+
+Button need LED Btn are place with marker:
+![marker led btn](https://cdn.hackclub.com/019e30d2-f484-72de-8261-d1dfbefc23c2/2-9.png)
+
+Next step is to make row and column and make the electronic sheme totaly.
+But before i need to investigate about button LED.
+
+**Total time spent: 2 hours**
