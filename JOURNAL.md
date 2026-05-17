@@ -179,3 +179,14 @@ Next step is to make row and column and make the electronic sheme totaly.
 But before i need to investigate about button LED.
 
 **Total time spent: 2 hours**
+
+# May 17
+Objective of the day:
+Check for the LED button and edit electrical scheme:
+![img elec](https://cdn.hackclub.com/019e3612-5bf6-79d5-af5e-ebb1eed4b3a9/2-10.png)
+this is first version of this electric scheme
+I work a lot on this elec scheme for security, I actually make reflection about put a security fusible for secure my circuit ? This is overkill for my system ?
+I send message on forge-help channel on slack for judge my circuit, I wait response
+This scheme is for the moment only for connection with cable but a PCB may be created after
+
+**Total time spent: 2 hours**
