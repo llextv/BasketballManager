@@ -190,3 +190,41 @@ I send message on forge-help channel on slack for judge my circuit, I wait respo
 This scheme is for the moment only for connection with cable but a PCB may be created after
 
 **Total time spent: 2 hours**
+
+# May 18
+Okay today big work !
+Make the entire scheme electronic on TinkerCad for each button and LED
+Partialy maked for the moment:
+![tk_elect](https://cdn.hackclub.com/019e3c89-326a-7dd9-bc5c-9473dd1a0123/2-11.png)
+I actually work on but its terrible long to make, I try to place all button perfectly for easy develop after.
+And cable management for more beautiful scheme to recongnising easely
+
+I have actually place button like this scheme: 
+![design btn](https://cdn.hackclub.com/019e30d2-e360-7274-957a-6bd32f1393c8/2-7.png)
+
+All button are followed by diode for escaping Ghosting risk on the grid
+
+My fear is to nope have enough PIN on ESP but it's Ok, ESP have more PIN than Arduino (i cannot import ESP in tinkercad so I make this with Arduino for the moment)
+This scheme in the future its PCB
+
+Images from my conception:
+![2-tk](https://cdn.hackclub.com/019e3c89-7132-71f6-9ee1-06f5dd8fd707/2-12.png)
+
+During wirding cable I also think how communicate ESP <--> RASPBERRY, I have alrealy make reflection about connexion system but never to how communication ? 
+So with reflection here is plan:
+
+RASPBERRY make a local web server
+Local server of raspberry have backend road: POST /btn/push/:cardId/:id
+cardId: ID of ESP Card
+id: ID of btn pressed
+
+![complete scheme](https://cdn.hackclub.com/019e3c89-96f3-78f2-91b2-42946a30c3a5/2-13.png)
+This is complete scheme of the project:
+![alt text](https://cdn.hackclub.com/019e3c89-ba7e-7eeb-b92c-4b80745f8d3b/2-14.png)
+![alt text](https://cdn.hackclub.com/019e3c89-ea3c-7f06-bcf0-b1a77e58de6c/2-15.png)
+![alt text](https://cdn.hackclub.com/019e3c8a-1b75-7fef-a7b7-2b9edd8eda9e/2-16.png)
+![alt text](https://cdn.hackclub.com/019e3c8a-4e65-7deb-b366-12b3695027d5/2-17.png)
+![alt text](https://cdn.hackclub.com/019e3c8a-57aa-7017-8f72-4ffa3e2c5813/2-18.png)
+![alt text](https://cdn.hackclub.com/019e3c8a-603a-7723-9766-9d6437c1a1d5/2-19.png)
+
+**Total time spent: 5 hours**
