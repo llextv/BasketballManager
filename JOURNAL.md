@@ -228,3 +228,33 @@ This is complete scheme of the project:
 ![alt text](https://cdn.hackclub.com/019e3c8a-603a-7723-9766-9d6437c1a1d5/2-19.png)
 
 **Total time spent: 5 hours**
+
+# May 19
+Reflection about button and KeyCaps
+Button I have choiced before are not good for my usage
+So I start to check other button not so expensive, I find this:
+https://fr.aliexpress.com/item/1005007871108640.html
+need this:
+https://fr.aliexpress.com/item/1005012163356976.html
+
+and:
+https://fr.aliexpress.com/item/1005006977105041.html
+
+x80 for each
+for:
+- 18,80€
+- 1,10€
+- 3,31€
+= 23,21€ with no transport !
+
+For encoder:
+- https://fr.aliexpress.com/item/1005007644083514.html (x3, Plum Handle 20mm)
+= 1,82€
+
+For the keycaps I will try to make impression with my 3d printer and see ...
+
+I append to make rectangular network on fusion, it's difficult at starting but after little working with it's pretty simple
+![network](https://cdn.hackclub.com/019e4133-01c1-7acd-8d55-53007fb23e3a/2-20.png)
+Its could be big plate for little button but if it's so big i will reduce size of plate but keep white place for future plugins for my plate
+
+**Total time spent: 2 hours**
