@@ -258,3 +258,20 @@ I append to make rectangular network on fusion, it's difficult at starting but a
 Its could be big plate for little button but if it's so big i will reduce size of plate but keep white place for future plugins for my plate
 
 **Total time spent: 2 hours**
+
+# May 20
+I start to place button with scheme.
+First part like this
+![hole](https://cdn.hackclub.com/019e4652-015f-7a17-aba0-73e1c1cee66f/2-21.png)
+Hole for encoder:
+![tk_hle](https://cdn.hackclub.com/019e4652-094d-7080-a076-d057e02cc91a/2-22.png)
+
+Finish it but realy big, I will reduce little box
+![allbtn](https://cdn.hackclub.com/019e4652-1286-73a7-a4b8-096cf2c93593/2-23.png)
+
+This is final version reduced
+![finalVersion](https://cdn.hackclub.com/019e4652-1b3b-713c-8e66-f34abc805701/2-24.png)
+
+Place white for place of plugins and cable under the plate
+I'have edit a little bit the scheme
+**Total time spent: 4 hours**
