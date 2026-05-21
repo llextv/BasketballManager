@@ -275,3 +275,32 @@ This is final version reduced
 Place white for place of plugins and cable under the plate
 I'have edit a little bit the scheme
 **Total time spent: 4 hours**
+
+# May 21
+List all items for the plate:
+
+- Button (x80) - 18,80€
+- Diode (x80) - 1,10€
+- LED (x80) - 3,31€
+- Encoder (x3) - 1,82€
+- ESP (x3) - 24€
+- Adaptateur 40W (x1) - 22€
+- DC 12V Male Female Connectors (x2) - 1.59€
+- Positions Terminal Block Connector (x10) - 1.22€
+- Resistor 330R - 0,58€
+- Condensator - 2,00€
+- Type C/Micro Female To 2 Pin Terminal Block - 2,20€ (https://www.aliexpress.com/ssr/300001493/welcomegiftspmpc?spm=a2g0o.productlist.main.1.328aodEAodEATE&businessCode=ug&productIds=1005011840570287&pha_manifest=ssr&source_position=app_home_moretolove_wg&_immersiveMode=true&disableNav=YES&sourceName=SEARCH&skuId=12000056741367887&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011840570287%7C_p_origin_prod%3A&pvid=e60bdde1-0d69-4edb-aa87-0376538a3268)
+- Solderless Plug USB C to 2Pin Terminal Adapter Screw Type-C to 2 Pin Crimp Terminal  - 1.46€ (https://fr.aliexpress.com/item/1005011551227977.html?spm=a2g0o.productlist.main.2.6f9fEwZwEwZwhs&algo_pvid=ced022b4-4863-45ec-95d5-b4bee4b0d98c&algo_exp_id=ced022b4-4863-45ec-95d5-b4bee4b0d98c-1&pdp_ext_f=%7B%22order%22%3A%2267%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.45%210.99%21%21%2111.20%217.63%21%40211b653717789425176881157e2473%2112000055894642923%21sea%21FR%216194915421%21ABX%211%210%21n_tag%3A-29910%3Bd%3Adcc5aa5c%3Bm03_new_user%3A-29895%3BpisId%3A5000000204883101&curPageLogUid=fJAmveAfPLnE&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011551227977%7C_p_origin_prod%3A)
+-  Raspberry Pi 4 Modèle B (1 Go) - 50€
+
+Other fee: 
+- PCB - Unkown €
+- Casing - Unkown €
+- KeyCaps - Unkown €
+
+= 130,08 € = 151,15 $
+
+Next step is to design PCB / get $ of PCB creation and design keycaps + casing for estimation of cost
+
+![img shop](https://cdn.hackclub.com/019e4ba1-0019-7dec-a449-11d44e8f2907/2-25.png)
+**Total time spent: 2 hours**
