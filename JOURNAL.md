@@ -304,3 +304,13 @@ Next step is to design PCB / get $ of PCB creation and design keycaps + casing f
 
 ![img shop](https://cdn.hackclub.com/019e4ba1-0019-7dec-a449-11d44e8f2907/2-25.png)
 **Total time spent: 2 hours**
+
+# May 22
+Today, I'have principly lost my time
+Try to design PCB on KiCad but the size of keys ... are not good, after I try with Fusion PCB, but nothing too
+
+No software are able to generate PCB stl for import after in Fusion for test ??
+
+![alt text](https://cdn.hackclub.com/019e4ff0-ddef-77be-a62c-0e21b758dc02/2-26.png)
+
+**Total time spent: 1 hours**
